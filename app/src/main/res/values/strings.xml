@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HadmanHanafi-1642819</string>
+    <string-array name="location">
+        <item>Select Location</item>
+        <item>Bandung</item>
+        <item>Jakarta</item>
+    </string-array>
+</resources>
